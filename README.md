@@ -1,4 +1,4 @@
-# Migracion_GRE_to_SD-WAN.CAPSTONE
+# Migración de interconexión GRE a una arquitectura SD-WAN
 Proyecto de título (Capstone) — Ingeniería en Conectividad y Redes, Duoc UC, sede Plaza Norte, 2026.
 
 **Integrantes:** Dorian Chávez · José Lobos
