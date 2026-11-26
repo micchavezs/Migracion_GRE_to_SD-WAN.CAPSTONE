@@ -2,6 +2,7 @@
 Proyecto de título (Capstone) — Ingeniería en Conectividad y Redes, Duoc UC, sede Plaza Norte, 2026.
 
 **Integrantes:** Dorian Chávez · José Lobos
+
 **Docente guía:** Claudio Hormazábal
 
 ## Caso: Los Andes Logistics
