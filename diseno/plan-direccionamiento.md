@@ -1,7 +1,5 @@
 # Plan de direccionamiento — Los Andes Logistics
 
-> Generado desde `plan-direccionamiento.xlsx` (fuente de verdad). Si cambias el Excel, actualiza también este archivo.
-
 ## Sedes
 
 | SEDE | FUNCIÓN | TRABAJADORES | BLOQUE IP | GATEWAY | WAN 1 | WAN 2 |
