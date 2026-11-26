@@ -17,7 +17,7 @@ Empresa logística simulada con tres sedes: Los Andes, Santiago y Rancagua. Cada
 
 | Área | Tecnología usada en el laboratorio |
 |---|---|
-| Gateways | UniFi Dream Machine Pro (uno por sede) |
+| Gateways | Unifi Express 7 |
 | Interconexión entre sedes | UniFi SD-WAN (túneles WireGuard entre gateways) |
 | Acceso remoto | OpenVPN (pool 10.250.0.0/24) |
 | Segmentación | 6 VLAN por sede: Gestión, Usuarios, Servidores, VoIP, Invitados, CCTV |
