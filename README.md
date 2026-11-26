@@ -36,9 +36,9 @@ Detalle completo en [`diseno/plan-direccionamiento.md`](diseno/plan-direccionami
 | Aislamiento de la red de invitados respecto del portal | Comprobado (Rancagua) | Ídem |
 | Acceso remoto OpenVPN | Comprobado | `docs/fase-2-implementacion/informe-avance-fase-2.docx` |
 | Monitoreo del túnel y jitter en Zabbix | Implementado | `docs/fase-2-implementacion/monitoreo-zabbix-sdwan.docx` |
-| Conmutación ante falla de enlace WAN (failover) | Pendiente | — |
-| Priorización de VoIP bajo congestión (QoS) | Pendiente | — |
-| Llamada entre sedes con red congestionada | Pendiente | — |
+| Conmutación ante falla de enlace WAN (failover) | Completado(Virtualizado) | — |
+| Priorización de VoIP bajo congestión (QoS) | Completado(Limitación) | — |
+| Llamada entre sedes con red congestionada | Completado(Limitación) | — |
 
 ## Estructura del repositorio
 
